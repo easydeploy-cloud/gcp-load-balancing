@@ -14,13 +14,13 @@ echo '<!doctype html><html><body><h1>server 1</h1></body></html>' | sudo tee /va
 
 ## Firewall settings for SSH 
 
-**Name:** ```allow-ssh-from-iap```
+**Name 🠊** ```allow-ssh-from-iap```
 
-**Target tags:** ```http-tag```
+**Target tags 🠊** ```http-tag```
 
-**Source IP Ranges:** ```35.235.240.0/20```
+**Source IP Ranges 🠊** ```35.235.240.0/20```
 
-**Allowed protocols and ports:** ```tcp:22```
+**Allowed protocols and ports 🠊** ```tcp:22```
 
 ## Firewall settings for HTTP 
 
