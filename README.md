@@ -30,4 +30,4 @@ echo '<!doctype html><html><body><h1>server 1</h1></body></html>' | sudo tee /va
 
 **Source IP Ranges 🠊** ```130.211.0.0/22``` and ```35.191.0.0/16``` .
 
-**Allowed protocols and ports 🠊** ```tcp:22```
+**Allowed protocols and ports 🠊** ```tcp:80```
